@@ -10,7 +10,7 @@ Collaboration project using PowerBi to create data dashboards, visualizations, a
 3. Blank... *open to suggestions*
 4. Blank... *open to suggestions*
 
-##Potential Kaggle Datasets
+## Potential Kaggle Datasets
 
 1. [Personal Key Indicators of Heart Disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
 2. [TOP 1000 Highest Grossing Movies](https://www.kaggle.com/datasets/sanjeetsinghnaik/top-1000-highest-grossing-movies)
@@ -19,7 +19,7 @@ Collaboration project using PowerBi to create data dashboards, visualizations, a
 
 Mohammad: <mark>I personally would like to search for a database that has financial data, but I have not yet found one</mark>.
 
-###Task List
+### Task List
 
 - [x] Create README.md and collaborate on selecting an dataset 
 - [ ] Select a Dataset
