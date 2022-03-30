@@ -14,9 +14,9 @@ Collaboration project using PowerBi to create data dashboards, visualizations, a
 ## Potential Kaggle Datasets
 
 1. [Personal Key Indicators of Heart Disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
-~~2. [TOP 1000 Highest Grossing Movies](https://www.kaggle.com/datasets/sanjeetsinghnaik/top-1000-highest-grossing-movies)
-~3. [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-~4. [Bike Sharing in Washington D.C. Dataset](https://www.kaggle.com/datasets/marklvl/bike-sharing-dataset)
+~~2. [TOP 1000 Highest Grossing Movies]~~(https://www.kaggle.com/datasets/sanjeetsinghnaik/top-1000-highest-grossing-movies)
+~~3. [Netflix Movies and TV Shows]~~(https://www.kaggle.com/datasets/shivamb/netflix-shows)
+~~4. [Bike Sharing in Washington D.C. Dataset]~~(https://www.kaggle.com/datasets/marklvl/bike-sharing-dataset)
 
 Mohammad: <mark>I personally would like to search for a database that has financial data, but I have not yet found one</mark>.
 
