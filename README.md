@@ -21,13 +21,13 @@ Collaboration project using PowerBi to create data dashboards, visualizations, a
 
 ~~4. [Bike Sharing in Washington D.C. Dataset](https://www.kaggle.com/datasets/marklvl/bike-sharing-dataset)~~
 
-Mohammad: <mark>I personally would like to search for a database that has financial data, but I have not yet found one</mark>.
+~~Mohammad: <mark>I personally would like to search for a database that has financial data, but I have not yet found one</mark>.~~
 
 ### Task List
 
 - [x] Create README.md and collaborate on selecting an dataset 
 - [x] Select a Dataset
-- [ ] Create the SQL Database
+- [x] Create the SQL Database
 - [ ] Identify tables and Data Types in Database *Entity Relationship Diagram or Abreviated Data Dictionary*
 - [ ] Create PowerBI Data Visualizations using data in database
 - [ ] Create PowerBI Dashboard with dropdowns and experiment with features
